@@ -12,9 +12,7 @@
   },
   "overrides": [
     {
-      "includes": [
-        "app/javascript/controllers/index.js"
-      ],
+      "includes": ["app/javascript/controllers/index.js"],
       "assist": {
         "actions": {
           "source": {
